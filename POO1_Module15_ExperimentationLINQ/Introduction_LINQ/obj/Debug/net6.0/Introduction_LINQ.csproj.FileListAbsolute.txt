@@ -1,0 +1,15 @@
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\bin\Debug\net6.0\Introduction_LINQ.exe
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\bin\Debug\net6.0\Introduction_LINQ.deps.json
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\bin\Debug\net6.0\Introduction_LINQ.runtimeconfig.json
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\bin\Debug\net6.0\Introduction_LINQ.dll
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\bin\Debug\net6.0\Introduction_LINQ.pdb
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.csproj.AssemblyReference.cache
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.AssemblyInfoInputs.cache
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.AssemblyInfo.cs
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.dll
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\refint\Introduction_LINQ.dll
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.pdb
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\Introduction_LINQ.genruntimeconfig.cache
+C:\Users\laure\source\repos\POO1_Module15_ExperimentationLINQ\Introduction_LINQ\obj\Debug\net6.0\ref\Introduction_LINQ.dll
